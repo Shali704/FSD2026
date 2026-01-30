@@ -1,4 +1,4 @@
 console.log("hello world");
-console.info("this is shalini");
-console.error("my mind is empty");
-console.warn("don't come near me");
+console.info("this is info");
+console.error("this is error");
+console.warn("this is warn");
